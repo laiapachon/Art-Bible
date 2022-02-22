@@ -37,7 +37,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
 ### - **Art Style**
    This part has to explain which **Environment Scale** has the game, which are the **Architectural Proportions** and the **Character Proportions**. **Who lives in the environment**, this means what type of environment the game has and how it is. In **which time the game happens** (day, night, past, future, etc). Also the **Weather**. **Common things or precious materials** of the world they are creating. **How artists should draw** all the things of the game. And, finally, **which tecnologies they should use**, as well as some tips, hints or advancements.
 
-### - *Character Art*
+### - **Character Art**
    This part of the Art Bible has to include everything related with the **Character**, if there are various characters then this part has to include all of them, clear and organized so the drawings do not mix with each other. What this part has to include is:
       
       1. Expressions of the character
