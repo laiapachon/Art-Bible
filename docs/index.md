@@ -2,7 +2,7 @@
 
 ### What is an Art Bible?
 
-https://docs.google.com/presentation/d/1xL5rleyuq89-GP7IA32CEnhjq8ilZt8hanZynrp40Mg/edit#slide=id.gbffd2f8546_0_585
+
 
 An Art Bible is a reference document or guide, which explains with details how has to be created the visual and artistic part of a videogame. The Art Bible helps the artistic team to communicate with each other and to avoid fatal errors.
 
@@ -35,7 +35,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       5. References and Moodboard
 
 - Art Style:
-
+***
       This part has to explain which **Environment Scale** has the game, which are the **Architectural Proportions** and the **Character Proportions**. **Who lives in the environment**, this means what type of environment the game has and how it is. In **which time the game happens** (day, night, past, future, etc). Also the **Weather**. **Common things or precious materials** of the world they are creating. **How artists should draw** all the things of the game. And, finally, **which tecnologies they should use**, as well as some tips, hints or advancements.
 
 - Character Art:
