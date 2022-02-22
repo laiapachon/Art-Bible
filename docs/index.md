@@ -2,6 +2,8 @@
 
 ### What is an Art Bible?
 
+https://docs.google.com/presentation/d/1xL5rleyuq89-GP7IA32CEnhjq8ilZt8hanZynrp40Mg/edit#slide=id.gbffd2f8546_0_585
+
 An Art Bible is a reference document or guide, which explains with details how has to be created the visual and artistic part of a videogame. The Art Bible helps the artistic team to communicate with each other and to avoid fatal errors.
 
 ### When is created?
