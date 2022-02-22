@@ -26,7 +26,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
 
 ### Contents of the Art Bible
 
-- Visual resources:
+# - **Visual resources**:
 
       1. Concept art
       2. Photographs
@@ -34,12 +34,10 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       4. Assets
       5. References and Moodboard
 
-- Art Style:
-***
+# - **Art Style**:
       This part has to explain which **Environment Scale** has the game, which are the **Architectural Proportions** and the **Character Proportions**. **Who lives in the environment**, this means what type of environment the game has and how it is. In **which time the game happens** (day, night, past, future, etc). Also the **Weather**. **Common things or precious materials** of the world they are creating. **How artists should draw** all the things of the game. And, finally, **which tecnologies they should use**, as well as some tips, hints or advancements.
 
-- Character Art:
-
+# - *Character Art*:
       This part of the Art Bible has to include everything related with the **Character**, if there are various characters then this part has to include all of them, clear and organized so the drawings do not mix with each other. What this part has to include is:
       
       1. Expressions of the character
@@ -49,17 +47,17 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       5. Clothes and accessories
       6. Color Palette
 
-- L.O.D (Level of Details):
-
+# - **L.O.D (Level of Details)**:
       This part of the Art Bible is really important, because defines the level of details the game has to have. It has to include the differences of details between the narrative, gameplay and the UI. Also how to increes or decrease the level of detail at the moment of drawing. What has to be detailed and what does not. Finally, related with the environment, the Art Bible has to include 
 
-- Camera
-- Color Palette
-- Environment/atmosphere
-- Texture & Surface
-- User interface
-- Technical Guidelines
-- References
+# - **Camera**:
+      
+# - **Color Palette**
+# - **Environment/atmosphere**
+# - **Texture & Surface**
+# - **User interface**
+# - **Technical Guidelines**
+# - **References**
 
  
 
