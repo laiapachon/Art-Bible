@@ -34,11 +34,11 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       4. Assets
       5. References and Moodboard
 
-### - **Art Style**:
-      This part has to explain which **Environment Scale** has the game, which are the **Architectural Proportions** and the **Character Proportions**. **Who lives in the environment**, this means what type of environment the game has and how it is. In **which time the game happens** (day, night, past, future, etc). Also the **Weather**. **Common things or precious materials** of the world they are creating. **How artists should draw** all the things of the game. And, finally, **which tecnologies they should use**, as well as some tips, hints or advancements.
+### - **Art Style**
+   This part has to explain which **Environment Scale** has the game, which are the **Architectural Proportions** and the **Character Proportions**. **Who lives in the environment**, this means what type of environment the game has and how it is. In **which time the game happens** (day, night, past, future, etc). Also the **Weather**. **Common things or precious materials** of the world they are creating. **How artists should draw** all the things of the game. And, finally, **which tecnologies they should use**, as well as some tips, hints or advancements.
 
-### - *Character Art*:
-      This part of the Art Bible has to include everything related with the **Character**, if there are various characters then this part has to include all of them, clear and organized so the drawings do not mix with each other. What this part has to include is:
+### - *Character Art*
+   This part of the Art Bible has to include everything related with the **Character**, if there are various characters then this part has to include all of them, clear and organized so the drawings do not mix with each other. What this part has to include is:
       
       1. Expressions of the character
       2. Character poses
@@ -47,32 +47,52 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       5. Clothes and accessories
       6. Color Palette
 
-### - **L.O.D (Level of Details)**:
-      This part of the Art Bible is really important, because defines the level of details the game has to have. It has to include the differences of details between the narrative, gameplay and the UI. Also how to increes or decrease the level of detail at the moment of drawing. What has to be detailed and what does not. Finally, related with the environment, the Art Bible has to include 
+### - L.O.D (Level of Details):
+   This part of the Art Bible is really important, because defines the level of details the game has to have. It has to include the differences of details between the narrative, gameplay and the UI. Also how to increes or decrease the level of detail at the moment of drawing. What has to be detailed and what does not. Finally, related with the environment, the Art Bible has to include 
 
 ### - **Camera**:
-      
-### - **Color Palette**
-### - **Environment/atmosphere**
-### - **Texture & Surface**
+   Inside this part of the Art Bible is necessary to add everything about the camera, because then is easier for the artists to know how to draw the perspective and where is the character respect to the background. The guide has to include the POV, the transitions, field of view, characters position, player position, effects and cutscenes.
+   
+### - **Color Palette**:
+   This part is one of the most important because is what brings life to the game. The selection of colours can represent so many thing, just like the way the player has to follow, the importance of the things, wich character is the player, see the enemies, etc. Ther are so much things we have to consider in a Color Palette:
+   
+         1. Color Samples
+         2. Hues
+         3. Values and vitality
+         4. Saturation
+
+### - **Environment/atmosphere**:
+   This one is related to the background, where is the character and ther are some thing to consider:
+   
+         1. The Scale of the environment
+         2. Scheme
+         3. Openness
+         4. Weather conditions.
+
+### - **Texture & Surface**:
+   This one is related with the texture, in the case the game have different textures apart from the drawing, then is necessary to add which texture and how to use it.
+   
 ### - **User interface**
+   Is necessary so the artists do not draw important things and then the UI cover them. Also is useful because artists have to draw the animations and where are the items.
+   
+         1. Animations
+         2. Menu items and hud
+         3. How to implement the UI design
+         4. UX(user experience)
+  
 ### - **Technical Guidelines**
+   This section is related with the technical aspects of the work, because it has to explains how to export the drawings, naming conections, which tool artists should use, which limitations they have and resource collection and structuring of the work.
 ### - **References**
+   Here is a list of what has to include this section:
+   
+         1. Photographs
+         2. Ilustrations
+         3. Ads
+         4. Movies
+         5. Games
+         6. Comics
 
- 
-
-```markdown
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-### Examples?
+### Examples
 
 [Art Bible example 1](https://www.artstation.com/artwork/nYmGZ9).
 [Art Bible example 2](https://www.artstation.com/artwork/nAYke).
