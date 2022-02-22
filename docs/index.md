@@ -25,6 +25,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
 ### Contents of the Art Bible
 
 - Visual resources:
+
       1. Concept art
       2. Photographs
       3. Diagrams
@@ -36,6 +37,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
 
 - Character Art:
       This part of the Art Bible has to include everything related with the **Character**, if there are various characters then this part has to include all of them, clear and organized so the drawings do not mix with each other. What this part has to include is:
+      
       1. Expressions of the character
       2. Character poses
       3. Scale comparison with other elements of the scene
