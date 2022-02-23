@@ -37,7 +37,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
   
 <img width="700" height="500" src="images/grey_1.jpg">
   
-<img width="900" height="500" src="images/antag-moodboard-2.png">
+<img width="900" height="400" src="images/antag-moodboard-2.png">
 
 ### - **Art Style**
    This part has to explain which **Environment Scale** has the game, which are the **Architectural Proportions** and the **Character Proportions**. **Who lives in the environment**, this means what type of environment the game has and how it is. In **which time the game happens** (day, night, past, future, etc). Also the **Weather**. **Common things or precious materials** of the world they are creating. **How artists should draw** all the things of the game. And, finally, **which tecnologies they should use**, as well as some tips, hints or advancements.
@@ -51,6 +51,8 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       4. Style and Creation
       5. Clothes and accessories
       6. Color Palette
+      
+
 <img width="700" height="300" src="images/pixels-huh.jpg">
 
 ### - L.O.D (Level of Details):
@@ -66,6 +68,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          2. Hues
          3. Values and vitality
          4. Saturation
+         
 <img width="700" height="300" src="images/paleta-de-colores-steampunk.jpg">
 
 ### - **Environment/atmosphere**:
@@ -75,12 +78,13 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          2. Scheme
          3. Openness
          4. Weather conditions.
+
 <img width="500" height="300" src="images/234302-viste-moda-videojuegos.jpg">
 
 ### - **Texture & Surface**:
    This one is related with the texture, in the case the game have different textures apart from the drawing, then is necessary to add which texture and how to use it.
    
-   <img width="700" height="300" src="images/texturas.jpg">
+<img width="700" height="300" src="images/texturas.jpg">
    
 ### - **User interface**
    The artists have to crate the UI and make it related to the game but at the same time the player has to distinguish the UI from the rest of the game.
@@ -90,7 +94,8 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          2. Menu items and hud
          3. How to implement the UI design
          4. UX(user experience)
-  <img width="300" height="300" src="images/ilustracion-gui-interfaz-usuario-juego-disenada-juegos-botones-computadoras-videojuegos_1150-49099.jpg">
+ 
+ <img width="300" height="300" src="images/ilustracion-gui-interfaz-usuario-juego-disenada-juegos-botones-computadoras-videojuegos_1150-49099.jpg">
   
 ### - **Technical Guidelines**
    This section is related with the technical aspects of the work, because it has to explains how to export the drawings, naming conections, which tool artists should use, which limitations they have and resource collection and structuring of the work.
@@ -103,6 +108,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          4. Movies
          5. Games
          6. Comics
+         
 <img width="700" height="300" src="images/TRY2CQHRVFDJLIAGVTQHDQBJRM.jpg">
 
 ### Examples
