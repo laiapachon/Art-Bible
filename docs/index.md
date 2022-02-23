@@ -49,6 +49,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       4. Style and Creation
       5. Clothes and accessories
       6. Color Palette
+<img width="500" height="300" src="images/pixels-huh.jpg">
 
 ### - L.O.D (Level of Details):
    This part of the Art Bible is really important, because defines the level of details the game has to have. It has to include the differences of details between the narrative, gameplay and the UI. Also how to increes or decrease the level of detail at the moment of drawing. What has to be detailed and what does not. Finally, related with the environment, the Art Bible has to include 
