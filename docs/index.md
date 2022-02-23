@@ -77,6 +77,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
 
 ### - **Texture & Surface**:
    This one is related with the texture, in the case the game have different textures apart from the drawing, then is necessary to add which texture and how to use it.
+   
    <img width="700" height="300" src="images/texturas.jpg">
    
 ### - **User interface**
@@ -87,6 +88,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          2. Menu items and hud
          3. How to implement the UI design
          4. UX(user experience)
+  <img width="300" height="300" src="ilustracion-gui-interfaz-usuario-juego-disenada-juegos-botones-computadoras-videojuegos_1150-49099.jpg">
   
 ### - **Technical Guidelines**
    This section is related with the technical aspects of the work, because it has to explains how to export the drawings, naming conections, which tool artists should use, which limitations they have and resource collection and structuring of the work.
