@@ -64,7 +64,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          2. Hues
          3. Values and vitality
          4. Saturation
-<img width="700" height="300" src="images/pixels-huh.jpg">
+<img width="700" height="300" src="images/paleta-de-colores-steampunk.jpg">
 
 ### - **Environment/atmosphere**:
    This one is related to the background, where is the character and ther are some thing to consider:
