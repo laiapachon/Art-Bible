@@ -77,6 +77,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
 
 ### - **Texture & Surface**:
    This one is related with the texture, in the case the game have different textures apart from the drawing, then is necessary to add which texture and how to use it.
+   <img width="700" height="300" src="images/texturas.jpg">
    
 ### - **User interface**
    The artists have to crate the UI and make it related to the game but at the same time the player has to distinguish the UI from the rest of the game.
