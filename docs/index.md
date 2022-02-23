@@ -35,6 +35,8 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
       5. References and Moodboard
       
   
+<img width="500" height="500" src="images/grey_1.jpg">
+  
 <img width="900" height="500" src="images/antag-moodboard-2.png">
 
 ### - **Art Style**
