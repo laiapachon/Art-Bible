@@ -73,7 +73,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          2. Scheme
          3. Openness
          4. Weather conditions.
-<img width="700" height="300" src="images/234302-viste-moda-videojuegos.jpg">
+<img width="500" height="300" src="images/234302-viste-moda-videojuegos.jpg">
 
 ### - **Texture & Surface**:
    This one is related with the texture, in the case the game have different textures apart from the drawing, then is necessary to add which texture and how to use it.
