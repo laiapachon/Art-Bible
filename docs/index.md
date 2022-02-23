@@ -101,7 +101,7 @@ An Art Bible  has to answere some questions and has to be clear for everyone who
          4. Movies
          5. Games
          6. Comics
-<img width="300" height="300" src="images/TRY2CQHRVFDJLIAGVTQHDQBJRM.jpg">
+<img width="700" height="300" src="images/TRY2CQHRVFDJLIAGVTQHDQBJRM.jpg">
 
 ### Examples
 
